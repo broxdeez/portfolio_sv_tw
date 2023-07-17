@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Nav from "../components/Nav.svelte";
+</script>
+
+<!-- THE WHOLE THING -->
+<div class='p-8 sm:px-32 xl:max-w-7xl mx-auto'>
+    <Nav />
+</div>
