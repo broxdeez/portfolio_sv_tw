@@ -5,11 +5,11 @@
 			<span class="text-3xl">BM</span>
 		</div>
 	</div>
-
-    <div class='flex justify-around w-[400px] sm:w-[480px]'>
+    <!-- Nav Links -->
+    <div class='flex justify-around w-[400px] sm:w-[480px] font-secondary text-xl'>
        <a href="/">HOME</a>
-       <a href="/">PROJECTS</a>
-       <a href="/">PHOTO</a>
-       <a href="/">ABOUT</a>
+       <a href="#projects">PROJECTS</a>
+       <a href="#photo">PHOTO</a>
+       <a href="#about">ABOUT</a>
     </div>
 </div>
