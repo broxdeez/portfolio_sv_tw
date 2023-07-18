@@ -14,7 +14,7 @@
                 I also do <span class="badge badge-primary badge-outline font-bold">Astro</span> and <span class="badge badge-secondary badge-outline font-bold">Landscape</span> photography
             </p>
             <div class='sm:pt-4'>   
-			<button class="w-32 btn btn-neutral bg-black hover:bg-primary hover:text-black">About Me</button>
+			<button class="w-32 btn btn-neutral bg-black hover:bg-primary hover:text-black shadow-lg shadow-black/60">About Me</button>
         </div>
 		</div>
 	</div>
