@@ -2,7 +2,7 @@
 	<div class="hero-content text-center">
 		<div class="max-w-xl flex flex-col items-center">
             <div class="block avatar mx-auto">
-				<div class="w-32 mask mask-squircle">
+				<div class="w-32">
 					<img src="/bharath.png" alt="headshot" />
 				</div>
 			</div>
@@ -14,7 +14,7 @@
                 I also do <span class="badge badge-primary badge-outline font-bold">Astro</span> and <span class="badge badge-secondary badge-outline font-bold">Landscape</span> photography
             </p>
             <div class='sm:pt-4'>   
-			<button class="w-32 btn btn-neutral bg-black">About Me</button>
+			<button class="w-32 btn btn-neutral bg-black hover:bg-primary hover:text-black">About Me</button>
         </div>
 		</div>
 	</div>

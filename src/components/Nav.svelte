@@ -7,9 +7,9 @@
 	</div>
     <!-- Nav Links -->
     <div class='flex justify-around w-[400px] sm:w-[480px] font-secondary text-xl'>
-       <a href="/">HOME</a>
-       <a href="#projects">PROJECTS</a>
-       <a href="#photo">PHOTO</a>
-       <a href="#about">ABOUT</a>
+       <a class='hover:text-primary' href="/">HOME</a>
+       <a class='hover:text-primary' href="#projects">PROJECTS</a>
+       <a class='hover:text-primary' href="#photo">PHOTO</a>
+       <a class='hover:text-primary' href="#about">ABOUT</a>
     </div>
 </div>
