@@ -1,4 +1,4 @@
-<div class="btm-nav z-50">
+<div class="btm-nav z-50 w-1/2 mx-auto rounded-full bottom-2 outline">
 	<button class="text-info">
 		<svg
 			xmlns="http://www.w3.org/2000/svg"
@@ -14,7 +14,7 @@
 			/></svg
 		>
 	</button>
-	<button class="text-info active">
+	<button class="text-info">
 		<svg
 			xmlns="http://www.w3.org/2000/svg"
 			width="24"
