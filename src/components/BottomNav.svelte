@@ -1,8 +1,11 @@
-<div class="btm-nav z-50 w-1/2 mx-auto rounded-full bottom-2 outline">
+<!-- <div class="btm-nav z-50 w-1/2 mx-auto rounded-full bottom-2 outline"> -->
+<div
+	class="btm-nav z-50 bg-transparent/10 sm:w-1/2 sm:mx-auto sm:rounded-full sm:bottom-2 sm:outline"
+>
 	<button class="text-info">
 		<svg
 			xmlns="http://www.w3.org/2000/svg"
-			class="h-5 w-5"
+			class="h-5 w-5 hover:stroke-primary"
 			fill="none"
 			viewBox="0 0 24 24"
 			stroke="currentColor"
@@ -25,7 +28,7 @@
 			stroke-width="2"
 			stroke-linecap="round"
 			stroke-linejoin="round"
-			class="h-5 w-5"
+			class="h-5 w-5 hover:stroke-primary"
 			><rect width="20" height="14" x="2" y="7" rx="2" ry="2" /><path
 				d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"
 			/></svg
@@ -42,10 +45,25 @@
 			stroke-width="2"
 			stroke-linecap="round"
 			stroke-linejoin="round"
-			class="h-5 w-5"
+			class="h-5 w-5 hover:stroke-primary"
 			><path
 				d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"
 			/><circle cx="12" cy="13" r="3" /></svg
+		>
+	</button>
+	<button>
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			width="24"
+			height="24"
+			viewBox="0 0 24 24"
+			fill="none"
+			stroke="currentColor"
+			stroke-width="2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+			class="lucide lucide-user w-5 h-5 stroke-secondary hover:stroke-primary"
+			><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" /><circle cx="12" cy="7" r="4" /></svg
 		>
 	</button>
 </div>
