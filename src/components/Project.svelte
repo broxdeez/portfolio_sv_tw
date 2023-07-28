@@ -5,9 +5,10 @@
 		WEB DEV
 	</h1>
 
-	<div
+	<!-- <div
 		class="h-[1500px] md:h-[400px] mt-10 sm:mt-24 flex flex-col items-center md:flex-row justify-center md:space-x-5 p-2 sm:p-0"
-	>
+	> -->
+	<div class='flex flex-col items-center mt-10 lg:flex-row lg:space-x-6'>
 		<div class="card w-96 bg-base-100 shadow-xl mb-10">
 			<figure><img class="object-cover h-60 w-full" src="project1.png" alt="Shoes" /></figure>
 			<div class="card-body">
@@ -50,9 +51,7 @@
 		FULL STACK ML
 	</h1>
 
-	<div
-		class="h-[1500px] md:h-[400px] mt-10 sm:mt-24 flex flex-col items-center md:flex-row justify-center md:space-x-5"
-	>
+	<div class='flex flex-col items-center mt-10 lg:flex-row lg:space-x-6'>
 		<div class="card w-96 bg-base-100 shadow-xl mb-10">
 			<figure><img class="object-cover h-60 w-full" src="project1.png" alt="Shoes" /></figure>
 			<div class="card-body">
